@@ -1,0 +1,6 @@
+__pycache__/
+db.sqlite3 
+ecommerce/__pycache__
+ecommerce/settings.py
+ecommerce/wsgi.py
+ecommerce/asgi.py
